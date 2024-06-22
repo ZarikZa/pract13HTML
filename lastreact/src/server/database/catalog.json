@@ -1,0 +1,84 @@
+{
+  "unitazs": [
+    {
+      "id": "1",
+      "picture": "0a5ce27614cc96791a42ebea7a3982cf.jpg",
+      "name": "Super",
+      "price": 32
+    },
+    {
+      "id": "2",
+      "picture": "1585125979074.jpg",
+      "name": "Poper",
+      "price": 32
+    },
+    {
+      "id": "3",
+      "picture": "f3df8be9929a89cdff04ae1205c594f4.jpeg",
+      "name": "Asd",
+      "price": 32
+    },
+    {
+      "id": "4",
+      "picture": "maxresdefault.jpg",
+      "name": "Oiu",
+      "price": 32
+    },
+    {
+      "id": "5",
+      "picture": "Nurnberg-Deutschland-2560x1600-1.jpg",
+      "name": "Ghj",
+      "price": 32
+    },
+    {
+      "id": "6",
+      "picture": "1_52550204d928b52550204d92ca.jpg",
+      "name": "Kisa",
+      "price": 32
+    },
+    {
+      "id": "7",
+      "picture": "26485_1_b.jpg",
+      "name": "Kasa",
+      "price": 32
+    },
+    {
+      "id": "8",
+      "picture": "uhe7uimtjnbl64wotzlx3o24ey24j81p.jpg",
+      "name": "Solo",
+      "price": 32
+    },
+    {
+      "id": "9",
+      "picture": "Снимок экрана 2024-06-20 040530.png",
+      "name": "Postavte",
+      "price": 32
+    },
+    {
+      "id": "10",
+      "picture": "maxresdefault.jpg",
+      "name": "Pyat",
+      "price": 32
+    },
+    {
+      "id": "11",
+      "picture": "maxresdefault.jpg",
+      "name": "Ura",
+      "price": 32
+    },
+    {
+      "id": "12",
+      "picture": "5eb35dd3ed8ab37f47f9196dca51dbe4.jpg",
+      "name": "Pls",
+      "price": 32
+    },
+    {
+      "id": "13",
+      "picture": "e900acd0633903292ba305837518d764.jpg",
+      "name": "Скибиди туалет",
+      "price": 32
+    }
+  ],
+  "carzina": [],
+  "favourite": []
+}
